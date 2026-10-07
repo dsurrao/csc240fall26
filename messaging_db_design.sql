@@ -28,7 +28,7 @@ create table `user` (
 );
 
 create table chat (
-	`chat_id` int primary key
+	`chat_id` int primary key auto_increment
 );
 
 /* 
